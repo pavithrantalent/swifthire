@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1034490236831",
+    "project_id": "swifthire-interview",
+    "storage_bucket": "swifthire-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034490236831:android:f89e0d1dd3f7ee6a2477aa",
+        "android_client_info": {
+          "package_name": "com.scheduler.swifthire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034490236831-nbor4s76mkesbmed7bu24i5pa7p4ijtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scheduler.swifthire",
+            "certificate_hash": "64b201117c88a8d66232f992c84bbf2074d8bed4"
+          }
+        },
+        {
+          "client_id": "1034490236831-aehn4qqb0sajbjdkcep2g0abshtt5sla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7EZNxouQr3vGmbyeX1FHY32YJpzQgQa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034490236831-aehn4qqb0sajbjdkcep2g0abshtt5sla.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034490236831-bfle20ailb49mks85m54mt4bemro1852.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.scheduler.swifthire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
